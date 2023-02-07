@@ -7,7 +7,7 @@ A back end for an e-commerce site made with Express, Sequelize, and MySQL
 
 ## Walkthrough Video
 
-[Walkthrough]()
+[Walkthrough](https://drive.google.com/file/d/1aABzWBheRdcEJeLixPu2qro7xp7JUl3a/view)
 
 ## Table of Contents
 
